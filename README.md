@@ -1,6 +1,6 @@
 # React-JS-Tasks
 
-1. Emoji Mood Changer
+**1. Emoji Mood Changer**
 
 Goal: Practice props to pass different moods and useState to change emoji faces.
 
@@ -13,7 +13,7 @@ Task:
 
 
 
-2. Random Quote Generator
+**2. Random Quote Generator**
 
 Goal: Props for quotes, useState for changing the quote.
 
@@ -26,7 +26,7 @@ Task:
 
 
 
-3. Magic Color Changer
+**3. Magic Color Changer**
 
 Goal: Props for button labels and useState for background color.
 
